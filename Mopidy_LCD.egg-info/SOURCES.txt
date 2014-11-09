@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+Mopidy_LCD.egg-info/PKG-INFO
+Mopidy_LCD.egg-info/SOURCES.txt
+Mopidy_LCD.egg-info/dependency_links.txt
+Mopidy_LCD.egg-info/entry_points.txt
+Mopidy_LCD.egg-info/not-zip-safe
+Mopidy_LCD.egg-info/requires.txt
+Mopidy_LCD.egg-info/top_level.txt
+mopidy_lcd/Adafruit_CharLCD.py
+mopidy_lcd/__init__.py
+mopidy_lcd/actor.py
+mopidy_lcd/ext.conf
